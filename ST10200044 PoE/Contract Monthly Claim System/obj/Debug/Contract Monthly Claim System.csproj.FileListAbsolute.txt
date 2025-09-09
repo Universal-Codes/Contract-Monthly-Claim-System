@@ -1,0 +1,10 @@
+C:\Users\yinhl\OneDrive - ADvTECH Ltd\Module Material\PROG6212\ST10200044 PoE\Contract Monthly Claim System\bin\Debug\Contract Monthly Claim System.exe.config
+C:\Users\yinhl\OneDrive - ADvTECH Ltd\Module Material\PROG6212\ST10200044 PoE\Contract Monthly Claim System\bin\Debug\Contract Monthly Claim System.exe
+C:\Users\yinhl\OneDrive - ADvTECH Ltd\Module Material\PROG6212\ST10200044 PoE\Contract Monthly Claim System\bin\Debug\Contract Monthly Claim System.pdb
+C:\Users\yinhl\OneDrive - ADvTECH Ltd\Module Material\PROG6212\ST10200044 PoE\Contract Monthly Claim System\obj\Debug\Contract Monthly Claim System.csproj.AssemblyReference.cache
+C:\Users\yinhl\OneDrive - ADvTECH Ltd\Module Material\PROG6212\ST10200044 PoE\Contract Monthly Claim System\obj\Debug\Contract_Monthly_Claim_System.Properties.Resources.resources
+C:\Users\yinhl\OneDrive - ADvTECH Ltd\Module Material\PROG6212\ST10200044 PoE\Contract Monthly Claim System\obj\Debug\Contract Monthly Claim System.csproj.GenerateResource.cache
+C:\Users\yinhl\OneDrive - ADvTECH Ltd\Module Material\PROG6212\ST10200044 PoE\Contract Monthly Claim System\obj\Debug\Contract Monthly Claim System.csproj.CoreCompileInputs.cache
+C:\Users\yinhl\OneDrive - ADvTECH Ltd\Module Material\PROG6212\ST10200044 PoE\Contract Monthly Claim System\obj\Debug\Contract Monthly Claim System.exe
+C:\Users\yinhl\OneDrive - ADvTECH Ltd\Module Material\PROG6212\ST10200044 PoE\Contract Monthly Claim System\obj\Debug\Contract Monthly Claim System.pdb
+C:\Users\yinhl\OneDrive - ADvTECH Ltd\Module Material\PROG6212\ST10200044 PoE\Contract Monthly Claim System\obj\Debug\Contract Monthly Claim System.exe.config
